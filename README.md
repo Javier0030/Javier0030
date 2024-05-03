@@ -227,7 +227,7 @@ Todo esta programado en python.
 <tr>
 <h3 align="center">Pruebas A*</h3>
 <div align="center">
-<a href="https://youtu.be/WvP2y7z-DdE" target="_blank"><img src="/img/A...PNG" width="400" height="400"></a>
+<a href="https://youtu.be/WvP2y7z-DdE" target="_blank"><img src="/img/A..PNG" width="400" height="400"></a>
 <p>
 </a>
 <a href="https://youtu.be/WvP2y7z-DdE" target="_blank">
