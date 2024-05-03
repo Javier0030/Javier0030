@@ -57,7 +57,7 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 <br>
 <table>
 <tr>
-<td width="50%">
+<td width="30%">
 <h3 align="center">Chapa electronica wifi</h3>
 <div align="center">
 <a href="https://youtu.be/mjCE6pbiJcU" target="_blank"><img src="/img/chapaelectrica.PNG" width="400" height="400"></a>
@@ -72,10 +72,10 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
                                                                                       
 </td>       
 
-<td width="50%">
+<td width="70%">
 <h3 align="center">Contador de Aforo</h3>
 <div align="center">
-<a href="https://youtu.be/WgftzHteGww" target="_blank"><img src="/img/contadordepersonas.PNG" width="400"height="400" ></a>
+<a href="https://youtu.be/WgftzHteGww" target="_blank"><img src="/img/contadordepersonas.PNG" width="600"height="400" ></a>
 <p>
 </a>
 <a href="https://youtu.be/WgftzHteGww" target="_blank">
@@ -89,8 +89,66 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 </table>                                                                                 
 </div>
 <br>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Pcb del contador de aforo</h3>
+<div align="center">
+<a  target="_blank"><img src="/img/contadordepersonas.jpg" width="600" height="400"></a>
+<p> En la segunda verión del contador de personas se diseño y se mando a fabricar la PCB</p>
+</div>
+                                                                                      
+</td>
 
-### ⚙️ &nbsp;GitHub Analytics
+<td width="50%">
+               <br>
+<h3 align="center">PCB fresadora CNC </h3>
+<div align="center">   
+<a  target="_blank"><img src="/img/pcbcnc.jpg" width="400" height="400"></a>
+</p> Se actualizo la electronica de la cnc por electronica propia usando el puerto paralelo y mach3 se diseño y se mando a fabricar la pcb.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+</td>  
+</table>                                                                                 
+</div>
+<br>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Robot de pelea 3Libras</h3>
+<div align="center">
+<a  target="_blank"><img src="/img/robotpelea1.jpeg" width="400" height="400"></a>
+<p> Se fabrico un robot de pelea de 3libras con alumnio de 5mm, motor brushless para el arma y motores de 800rpms</p>
+</div>
+                                                                                      
+</td>
+<td width="50%">
+               <br>
+<h3 align="center">PCB calidad de aire automovil </h3>
+<div align="center">   
+<a  target="_blank"><img src="/img/pcbescuela.PNG" width="400" height="400"></a>
+</p> Esta PCB contaba con un stm32, un sensor de calidad de aire i2c, una pantalla oled, convertidor buck, media la temperatura y calidad de aire adentro de un automovil.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+</td>  
+</table>                                                                                 
+</div>
+<br>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">PCB calidad de aire soldada</h3>
+<div align="center">
+<a  target="_blank"><img src="/img/pcbsoldada.jpg" width="400" height="400"></a>
+<p> Proceso de soldado</p>
+</div>
+### ⚙️ &nbsp;Trabajo Terminal
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
