@@ -148,11 +148,91 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 <a  target="_blank"><img src="/img/pcbsoldada.jpg" width="400" height="400"></a>
 <p> Proceso de soldado</p>
 </div>
-### ⚙️ &nbsp;Trabajo Terminal
 
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+## ⚙️ *Trabajo Terminal*
+Mi trabajo terminal fue en equipo junto a otros dos compañeros, se entrega este junio aunque ya esta casi acabado, con este proyecto me titulo.
+
+Mi trabajo terminal consistio en la implementación y comparación de tres algoritmos de evasión de obstáculos estáticos en un robot móvil tipo Ackermann mediante ROS (Robot Operating System).
+En palabras mas sencillas el problema a resolver era llevar un robot tipo ackermann (un carro con dirección en las llantas delanteras) de un punto A a un punto B esquivando los obstaculos en la ruta, el carro tiene que tener la capacidad de generar una ruta esquivando los obstaculos esto se hizo con los algoritmos de planeación de trayectoria A*, Dijkstra y Campos Potenciales Artificiales y despues tener la capacidad de seguir esa ruta esto se hizo con un controlador Stanley.
+
+Todo se implemento en ROS (Robot Operating System), Y en un carro de la marca Sunfounder PICAR-V, sobre una raspberry pi, todo el codigo se ejecuta en una pc externa y se comparten los datos mediante una red local entre la rasp y la pc.
+
+
+El seguimiento del vehiculo y la detección de los obstaculos se hizo usando visión artificial, segmentacion de colores para encontrar los obstaculos, y la localización con dos marcadores Aruco uno sobre el carro y otro que define el origen.
+Todo esta programado en python.
+
+
+</td>  
+</table>                                                                                 
+</div>
+<br>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Entorno controlado</h3>
+<div align="center">
+<a  target="_blank"><img src="/img/entorno.jpg" width="400" height="400"></a>
+<p> Entorno controlado donde navegara el robot</p>
+</div>
+                                                                                      
+</td>
+<td width="50%">
+               <br>
+<h3 align="center">Robot tipo Ackermann </h3>
+<div align="center">   
+<a  target="_blank"><img src="/img/carro.jpg" width="400" height="400"></a>
+</p> Robot tipo Ackermann con marcador Aruco.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+</table>                                                                                 
+</div>
+<br>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Pruebas Dijsktra</h3>
+<div align="center">
+<a href="https://youtu.be/4fiz673tQJ8" target="_blank"><img src="/img/distra.PNG" width="400" height="400"></a>
+<p>
+</a>
+<a href="https://youtu.be/4fiz673tQJ8" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
+<p> Una prueba con el algoritmo Dijsktra.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Pruebas campos potenciales</h3>
+<div align="center">
+<a href="https://youtu.be/kXNHkmnMuXA" target="_blank"><img src="/img/campos.PNG" width="400"height="400" ></a>
+<p>
+</a>
+<a href="https://youtu.be/kXNHkmnMuXA" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p> Una prueba con el algoritmo de campos potenciales artificiales</p>
+</div>
+
+</table>                                                                                 
+</div>
+<br>
+<table>
+<tr>
+<h3 align="center">Pruebas A*</h3>
+<div align="center">
+<a href="https://youtu.be/WvP2y7z-DdE" target="_blank"><img src="/img/A...PNG" width="400" height="400"></a>
+<p>
+</a>
+<a href="https://youtu.be/WvP2y7z-DdE" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p> Una prueba con el algoritmo Dijsktra.</p>
+</div>
