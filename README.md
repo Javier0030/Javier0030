@@ -63,26 +63,26 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 <a href="https://youtu.be/mjCE6pbiJcU" target="_blank"><img src="/img/chapaelectrica.PNG" width="400" height="400"></a>
 <p>
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<a href="https://youtu.be/mjCE6pbiJcU" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p> Solo daba acceso a las tarjetas RFID registradas en la base de datos, se mandaba a un sitio web el id de los alumnos que estaban en el laboratorio, y de forma remota se podia dar acceso o no al laboratorio, este prototipo era para evitar robos en laboratorio de computo.</p>
+<p> Solo daba acceso a las tarjetas RFID registradas en la base de datos, se mandaba a un sitio web el id de los alumnos que estaban en el laboratorio, y de forma remota se podia dar acceso o no al laboratorio, este prototipo era para evitar robos en laboratorio de computo, esto con una esp32.</p>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Contador de Aforo</h3>
 <div align="center">
-<a href="https://youtu.be/mjCE6pbiJcU" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://youtu.be/WgftzHteGww" target="_blank"><img src="/img/contadordepersonas.PNG" width="400"height="400" ></a>
 <p>
 </a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
+<a href="https://youtu.be/WgftzHteGww" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Contador de personas, calidad de aire, registraba la entrada, salida y hora, las mandaba a una base de datos y luego una gui en python mostraba los datos, todo con una esp01 y un pic18f4550</p>
 </div>
                                                                                       
 </td>  
