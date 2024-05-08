@@ -4,7 +4,9 @@
 <img src="/img/carro.jpg">
 
 ## Sobre mi
+<div align="justify">
 Estudiante de último semestre de Ingeniería Mecatrónica con sólida formación en programación de microcontroladores y amplia experiencia en el diseño y desarrollo de proyectos multidisciplinarios. Apasionado por la innovación y la resolución de problemas, con habilidades destacadas en liderazgo, trabajo en equipo y responsabilidad. Conocimiento en programación en lenguajes como C, C++, Java y Python.
+</div>
 <br>
 
 ## *Algunos Proyectos Realizados*
@@ -14,6 +16,7 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 <h3 align="center">Fresadora CNC versión 1</h3>
 <div align="center">
 <a  target="_blank"><img src="/img/cncpprimera.PNG" width="400" height="400"></a>
+<div align="justify">
 <p> Fresadora CNC realizada en bachillerato, con motores paso a paso nema 17 capaz de grabar y cortar maderas delgadas, mdf, plasticos delgados y baquelita de pcb.</p>
 </div>
                                                                                       
@@ -24,6 +27,7 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 <h3 align="center">Fresadora CNC versión 3</h3>
 <div align="center">   
 <a  target="_blank"><img src="/img/cncyepa.jpg" width="400" height="400"></a>
+<div align="justify">  
 </p>Esta CNC contaba con una estructura mas robusta fabricada con perfil de aluminio comercial por ser mas barato que el V-slot y con ruedas tipo pom del tamaño adecuado para deslizarse sobre el perfil.</p>
 </div>                                                             
 </table>                                                                                 
@@ -36,6 +40,7 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 <h3 align="center">Algunos fresados</h3>
 <div align="center">
 <a  target="_blank"><img src="/img/xuyuzu.PNG" width="400" height="400"></a>
+<div align="justify">
 <p> Grabado y corte en plastico.</p>
 </div>
                                                                                       
@@ -46,6 +51,7 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 <h3 align="center">Algunos fresados</h3>
 <div align="center">   
 <a  target="_blank"><img src="/img/fresado1.PNG" width="400" height="400"></a>
+<div align="justify">
 </p>Grabado y fresado en tryplay.
 </p>
 </div>  
@@ -67,6 +73,7 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
+<div align="justify">
 <p> Solo daba acceso a las tarjetas RFID registradas en la base de datos, se mandaba a un sitio web el id de los alumnos que estaban en el laboratorio, y de forma remota se podia dar acceso o no al laboratorio, este prototipo era para evitar robos en laboratorio de computo, esto con una esp32.</p>
 </div>
                                                                                       
@@ -82,6 +89,7 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
+<div align="justify">
 <p>Contador de personas, calidad de aire, registraba la entrada, salida y hora, las mandaba a una base de datos y luego una gui en python mostraba los datos, todo con una esp01 y un pic18f4550</p>
 </div>
                                                                                       
@@ -95,6 +103,7 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 <h3 align="center">Pcb del contador de aforo</h3>
 <div align="center">
 <a  target="_blank"><img src="/img/contadordepersonas.jpg" width="600" height="400"></a>
+<div align="justify">
 <p> En la segunda verión del contador de personas se diseño y se mando a fabricar la PCB</p>
 </div>
                                                                                       
@@ -105,6 +114,7 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 <h3 align="center">PCB fresadora CNC </h3>
 <div align="center">   
 <a  target="_blank"><img src="/img/pcbcnc.jpg" width="400" height="400"></a>
+<div align="justify">
 </p> Se actualizo la electronica de la cnc por electronica propia usando el puerto paralelo y mach3 se diseño y se mando a fabricar la pcb.</p>
 </div>                                                             
 </table>                                                                                 
@@ -121,6 +131,7 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 <h3 align="center">Robot de pelea 3Libras</h3>
 <div align="center">
 <a  target="_blank"><img src="/img/robotpelea1.jpeg" width="400" height="400"></a>
+<div align="justify">
 <p> Se fabrico un robot de pelea de 3libras con alumnio de 5mm, motor brushless para el arma y motores de 800rpms</p>
 </div>
                                                                                       
@@ -130,6 +141,7 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 <h3 align="center">PCB calidad de aire automovil </h3>
 <div align="center">   
 <a  target="_blank"><img src="/img/pcbescuela.PNG" width="400" height="400"></a>
+<div align="justify">
 </p> Esta PCB contaba con un stm32, un sensor de calidad de aire i2c, una pantalla oled, convertidor buck, media la temperatura y calidad de aire adentro de un automovil.</p>
 </div>                                                             
 </table>                                                                                 
@@ -146,10 +158,12 @@ Estudiante de último semestre de Ingeniería Mecatrónica con sólida formació
 <h3 align="center">PCB calidad de aire soldada</h3>
 <div align="center">
 <a  target="_blank"><img src="/img/pcbsoldada.jpg" width="400" height="400"></a>
+<div align="justify">
 <p> Proceso de soldado</p>
 </div>
 
 ## ⚙️ *Trabajo Terminal*
+<div align="justify">
 Mi trabajo terminal fue en equipo junto a otros dos compañeros, se entrega este junio aunque ya esta casi acabado, con este proyecto me titulo.
 
 Mi trabajo terminal consistio en la implementación y comparación de tres algoritmos de evasión de obstáculos estáticos en un robot móvil tipo Ackermann mediante ROS (Robot Operating System).
@@ -160,7 +174,7 @@ Todo se implemento en ROS (Robot Operating System), Y en un carro de la marca Su
 
 El seguimiento del vehiculo y la detección de los obstaculos se hizo usando visión artificial, segmentacion de colores para encontrar los obstaculos, y la localización con dos marcadores Aruco uno sobre el carro y otro que define el origen.
 Todo esta programado en python.
-
+</div>
 
 </td>  
 </table>                                                                                 
@@ -172,6 +186,7 @@ Todo esta programado en python.
 <h3 align="center">Entorno controlado</h3>
 <div align="center">
 <a  target="_blank"><img src="/img/entorno.jpg" width="400" height="400"></a>
+</div>
 <p> Entorno controlado donde navegara el robot</p>
 </div>
                                                                                       
@@ -181,6 +196,7 @@ Todo esta programado en python.
 <h3 align="center">Robot tipo Ackermann </h3>
 <div align="center">   
 <a  target="_blank"><img src="/img/carro.jpg" width="400" height="400"></a>
+</div>
 </p> Robot tipo Ackermann con marcador Aruco.</p>
 </div>                                                             
 </table>                                                                                 
@@ -202,6 +218,7 @@ Todo esta programado en python.
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
+</div>
 <p> Una prueba con el algoritmo Dijsktra.</p>
 </div>
                                                                                       
@@ -217,6 +234,7 @@ Todo esta programado en python.
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
+</div>
 <p> Una prueba con el algoritmo de campos potenciales artificiales</p>
 </div>
 
