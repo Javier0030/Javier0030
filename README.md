@@ -273,10 +273,10 @@ A test with the Dijkstra algorithm</p>
 <td width="50%">
 <h3 align="center">Pruebas campos potenciales - Potential fields testing</h3>
 <div align="center">
-<a href="https://youtu.be/kXNHkmnMuXA" target="_blank"><img src="/img/campos.PNG" width="400"height="400" ></a>
+<a href="https://youtu.be/OwTfZGpNO-8" target="_blank"><img src="/img/campos1.PNG" width="400"height="400" ></a>
 <p>
 </a>
-<a href="https://youtu.be/kXNHkmnMuXA" target="_blank">
+<a href="https://youtu.be/OwTfZGpNO-8" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
@@ -293,10 +293,10 @@ A test with the artificial potential fields algorithm</p>
 <tr>
 <h3 align="center">Pruebas A*, A* Testing</h3>
 <div align="center">
-<a href="https://youtu.be/WvP2y7z-DdE" target="_blank"><img src="/img/A..PNG" width="400" height="400"></a>
+<a href="https://youtu.be/U4xUX3RYHec" target="_blank"><img src="/img/Aestrella.PNG" width="400" height="400"></a>
 <p>
 </a>
-<a href="https://youtu.be/WvP2y7z-DdE" target="_blank">
+<a href="https://youtu.be/U4xUX3RYHec" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
